@@ -1,5 +1,5 @@
 # competitive_programming_solutions
-September 2022 Onwards CP solutions 
+CP solutions (Mostly .py)
 
 CF answers have file name contestcode+questioncode+submission_id+verdict, verdict is a if accepted r if rejected
 CC answers just have question name
